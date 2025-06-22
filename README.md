@@ -17,5 +17,12 @@ Current mode: System 2, think step-by-step and answer.<|end|>
 <|role|>assistant<|says|><think>
 ```
 
+# Model Download
 
+ModelScope: https://modelscope.cn/collections/DeepSeek-R1-0528--zhengliumoxing-cb9744ce57744c
 
+Huggingface: https://huggingface.co/collections/OpenBuddy/r1-0528-distill-685828b61c77e5c04240f5a0
+
+# Dataset 
+
+https://huggingface.co/datasets/OpenBuddy/R1-0528-Distill
